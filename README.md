@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @mohsine1999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mohsine1999/mohsine1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+<head>
+</head>
+<body>
+<center>
+<ul>
+<li>- 👋 Hi, I’m @mohsine1999</li>
+<li>- 👀 I’m interested in Full stack developer </li>
+<li>- 🌱 I’m currently learning Java </li>
+<li>- 💞️ I’m looking to collaborate on project</li>
+<li>- 📫 How to reach me ...</li>
+</ul>
+<h1> Java </h1>
+<h1> Html 5 & Css3 </h1>
+<h1> Bootstrap </h1>
+<h1> php </h1>
+<h1> MySql </h1>
+</center>
+</body>
+</html>
