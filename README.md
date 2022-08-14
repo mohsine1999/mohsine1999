@@ -1,5 +1,6 @@
 <html>
 <head>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/mohsine1999/github-readme-stats)
 </head>
 <body>
 <center>
