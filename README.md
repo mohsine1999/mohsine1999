@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.linkpicture.com/q/springAngular.png" width="200"/>
+  <img src="https://www.linkpicture.com/q/springAngular.png" width="500" />
 </div>
 
 
